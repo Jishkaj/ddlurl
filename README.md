@@ -1,0 +1,2 @@
+# ddlurl
+convenience for ddl
